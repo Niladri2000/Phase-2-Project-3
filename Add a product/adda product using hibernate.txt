@@ -1,0 +1,1 @@
+Code to add a product to database using hibernate and servlets has been created by Niladri Chowdhury 
